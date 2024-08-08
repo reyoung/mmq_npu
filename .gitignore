@@ -1,0 +1,5 @@
+_skbuild
+.vscode
+*.pyc
+*egg-info
+build
